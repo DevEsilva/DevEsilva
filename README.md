@@ -112,7 +112,7 @@
 ## 📫 Contacto
 
 📧 Email: [edinssonsn@gmail.com](mailto:edinssonsn@gmail.com)
-💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/edinssonsilva/)
+💼 LinkedIn: [https://www.linkedin.com/in/edinssonsilva/](https://www.linkedin.com/in/edinssonsilva/)
 
 ---
 
