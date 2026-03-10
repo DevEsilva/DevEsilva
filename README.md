@@ -96,7 +96,7 @@ Actualmente enfocado en construir soluciones robustas y escalables.
 # 📫 Contact
 
 📧 Email: [edinssonsn@gmail.com](mailto:edinssonsn@gmail.com)
-💼 LinkedIn: [[https://www.linkedin.com/in/edinssonsilva/](https://www.linkedin.com/in/edinssonsilva/)
+💼 LinkedIn: [https://www.linkedin.com/in/edinssonsilva/](https://www.linkedin.com/in/edinssonsilva/)
 
 ---
 
