@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hola+soy+Edinsson+Silva;Desarrollador+Java;Angular+Developer;Backend+Developer"/>
+</p>
 <h1 align="center">Hola 👋, soy Edinsson Silva</h1>
 <h3 align="center">Desarrollador de Software | Java | Angular | Tecnología</h3>
 
