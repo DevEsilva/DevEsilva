@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# Edinsson Silva
-
 **Full-Stack Developer · Java · Angular · APIs · DevOps**
 
 Lima, Perú
