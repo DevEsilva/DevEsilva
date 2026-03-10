@@ -75,17 +75,6 @@
 <img src="https://img.shields.io/badge/GitHub-Repositories-black?style=for-the-badge&logo=github"/>
 </p>
 
-
----
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevEsilva&show_icons=true&theme=tokyonight" />
-
-</p>
-
 ---
 
 ## 📈 Actividad
