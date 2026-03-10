@@ -14,9 +14,9 @@ Lima, Perú
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-Portafolio-blue?style=for-the-badge)](https://github.com/DevEsilva)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](#)
-[![Email](https://img.shields.io/badge/Email-Contacto-blue?style=for-the-badge\&logo=gmail)](#)
+[![Website](https://img.shields.io/badge/Website-Portafolio-blue?style=for-the-badge)](https://devesilva.github.io/portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/edinssonsilva/)
+[![Email](https://img.shields.io/badge/Email-Contacto-blue?style=for-the-badge\&logo=gmail)](mailto:edinssonsn@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DevEsilva-blue?style=for-the-badge\&logo=github)](https://github.com/DevEsilva)
 
 </div>
