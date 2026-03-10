@@ -111,8 +111,8 @@
 
 ## 📫 Contacto
 
-📧 Email: [tuemail@correo.com](mailto:tuemail@correo.com)
-💼 LinkedIn: https://linkedin.com
+📧 Email: [edinssonsn@gmail.com](mailto:edinssonsn@gmail.com)
+💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/edinssonsilva/)
 
 ---
 
